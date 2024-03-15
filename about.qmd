@@ -1,11 +1,7 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 Welcome to the website
 
-```{r}
-1 + 1
-```
-
-# Data Visualization 
+I am a second-year business major with a minor in communications & new media in NUS. I love Ronaldo.
